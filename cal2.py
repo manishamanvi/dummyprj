@@ -16,6 +16,18 @@ def mul():
         B=int(raw_input("Enter B: "))
         return A * B
 
+
+hi asdasdnasd
+asd
+as
+da
+sd
+as
+da
+sd
+a
+sd
+asd
 def div():
         print ("Enter the two number to Divide")
         A=float(raw_input("Enter A: "))
