@@ -1,0 +1,9 @@
+rns=40
+snns=20
+nrns=10
+nsnns=35
+a=rns+snns
+print(a)
+b=(rns/a)
+print(b)
+p

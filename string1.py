@@ -1,0 +1,5 @@
+a=input('enter a string')
+print(a[ : :-1 ])
+print(len(a))
+print(min(a))
+print(max(a))
